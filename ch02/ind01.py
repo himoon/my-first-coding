@@ -1,0 +1,5 @@
+print("KE901"[0])
+print("KE901"[1])
+print("KE901"[2])
+print("KE901"[3])
+print("KE901"[4])
