@@ -30,7 +30,7 @@
 
   > 진짜 혼공프 아니였으면 계속 머릿속으로 생각만하고 도전 못해봤을 것 같아요. 다른 책들 보다 훨씬 이해하기 쉬워요.. 덕분에 재미있게 시작했습니다! 혼공프에서 너무 만족해서 혼공자바스크립트도 사서 하고 있는데 ㅠㅠㅠ 정말 머릿속에 조금의 의문도 없이 명백하게 세세하게 알려주진 못하네요 혼공프처럼 ㅠㅠ 정말 자바스크립트랑 다른것도 책 계속 내주셨음 좋겠어요 ㅠㅠㅠㅠ
 
-## 오탈자 수정 사항
+## 오탈자 수정 사항
 
 1. `p.112` 상단 (1줄) 그림
 
@@ -57,7 +57,7 @@
 
    - `수정전`
    - <img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/errata_p310_3_before.png" width="400" alt="p.310 3번 문제 수정전" align="top">
-   - `수정후`
+   - `수정후`
    - <img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/errata_p310_3_after.png" width="400" alt="p.310 3번 문제 수정후" align="top">
 
 > 위 오탈자는 모두 2쇄에 반영 되었습니다.
