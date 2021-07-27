@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/book_cover_3d.png" width="800" alt="혼자 공부하는 첫 프로그래밍 with 파이썬 표지">
 
-## 공지사항
+## 📢 공지사항
 
-- [**(중요) replit 웹사이트 에서 로그인을 요구하는 경우 해결책**](https://github.com/himoon/my-first-coding/wiki/replit-%EC%A0%95%EC%B1%85-%EB%B3%80%ED%99%94)
+- [**(중요) replit 웹사이트 에서 로그인을 요구하는 경우 해결책! 반드시 확인하세요!**](https://github.com/himoon/my-first-coding/wiki/replit-%EC%A0%95%EC%B1%85-%EB%B3%80%ED%99%94)
 
-- [예제 코드 온라인 뷰어(주피터 노트북) - 필요한 코드를 쉽게 복사해서 실습하세요](https://github.com/himoon/my-first-coding/tree/main/notebook)
+- [**예제 코드 온라인 뷰어(주피터 노트북) - 필요한 코드를 쉽게 복사해서 실습하세요!**](https://github.com/himoon/my-first-coding/tree/main/notebook)
 
 - [예제 코드 다운로드](https://www.hanbit.co.kr/store/books/look.php?p_code=B9609283195)
 
-## 독자 한줄평
+## 👍 독자 한줄평
 
 - [⭐️⭐️⭐️⭐️⭐️ 입문자용 파이썬 책의 최고봉.. (t\*\*\*\*\*\*n 님)](http://www.yes24.com/Product/Goods/90617738#infoset_reviewTop)
 - [⭐️⭐️⭐️⭐️⭐️ 프알못인 저도 뭐 하나 막힘없이 술술술 읽혀내려가는거 보면 진짜 쉽게 잘 쓰신 듯! (마\*킴 님)](http://www.yes24.com/Product/Goods/90617738#infoset_reviewTop)
@@ -18,7 +18,7 @@
 - [⭐️⭐️⭐️⭐️⭐️ 코딩버전 수학책 수학익힘책 버전 느낌이에요! 진짜 초등학교 쌤이 알려주듯 0부터 열까지 다 알려줍니다! 저처럼 아무것도 모르는 분들께 너무너무 좋아요! 덕분어 코딩이 점점 더 재밌어져요!! (d\*\*\*\*m 님)](http://aladin.kr/p/PN2mQ)
 - [⭐️⭐️⭐️⭐️⭐️ ㅋ자도 모르는 왕초보자인제 이해가 잘돼요 혼자하기에도 좋아요 (koichi7\*\*\* 님)](http://aladin.kr/p/PN2mQ)
 
-## 독자 리뷰
+## 🤭 독자 리뷰
 
 - [프로그래밍 비전공자의 후기 (남\*\*\*\*\*석 님)](http://aladin.kr/p/PN2mQ)
 
@@ -32,11 +32,11 @@
 
   > 진짜 혼공프 아니였으면 계속 머릿속으로 생각만하고 도전 못해봤을 것 같아요. 다른 책들 보다 훨씬 이해하기 쉬워요.. 덕분에 재미있게 시작했습니다! 혼공프에서 너무 만족해서 혼공자바스크립트도 사서 하고 있는데 ㅠㅠㅠ 정말 머릿속에 조금의 의문도 없이 명백하게 세세하게 알려주진 못하네요 혼공프처럼 ㅠㅠ 정말 자바스크립트랑 다른것도 책 계속 내주셨음 좋겠어요 ㅠㅠㅠㅠ
 
-## 유튜브 온라인 강의(무료)
+## 📺 유튜브 온라인 강의(무료)
 
 [<img src="https://img.youtube.com/vi/LyatteAYod8/maxresdefault.jpg" width="400" alt="혼자 공부하는 첫 프로그래밍 with 파이썬 유튜브 온라인 강의">](https://www.youtube.com/watch?v=LyatteAYod8&list=PLID7cC3lN2TGwMHut3HwvesaltOO_FlaF)
 
-## 오탈자 수정 사항
+## 😅 오탈자 수정 사항
 
 1. `p.112` 상단 (1줄) 그림
 
@@ -68,7 +68,7 @@
 
 > 위 오탈자는 모두 2쇄에 반영 되었습니다.
 
-## 판매처
+## 🚀 판매처
 
 - [yes24](http://www.yes24.com/Product/Goods/90617738)
 - [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243039&orderClick=LEa&Kc=)
