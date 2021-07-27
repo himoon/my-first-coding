@@ -1,6 +1,6 @@
 # 혼자 공부하는 첫 프로그래밍 with 파이썬
 
-<img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/book_cover_3d.png" width="800">
+<img src="https://raw.githubusercontent.com/himoon/my-first-coding/main/images/book_cover_3d.png" width="800" alt="혼자 공부하는 첫 프로그래밍 with 파이썬 표지">
 
 * [예제 코드 다운로드](https://www.hanbit.co.kr/store/books/look.php?p_code=B9609283195)
 
